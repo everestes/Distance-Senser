@@ -10,7 +10,7 @@
         
 # About Project
 
-<img src="img/ex.png" width="50%">
+<img src="https://surtrtech.files.wordpress.com/2018/01/09782-3.png" width="50%">
 
 พวกเราได้จัดทำโปรเจค Arduino Projects Distance Sensor ขึ้นมา เพื่อวัดระยะทาง โดยข้อจำกัดของอุปกรณ์นี้
 
