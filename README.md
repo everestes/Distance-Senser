@@ -63,7 +63,8 @@ Arduino Project Distance Senser
     <td align="center"><img src="https://www.img.live/images/2019/04/29/natchaya.jpg" width="30%"><br><br> 
 	    <a href="https://facebook.com/IngIngNatchaya" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="3%" target="_blank"></a>&nbsp;&nbsp;
 											<a href="https://github.com/61070053" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="3%" ></a>&nbsp;&nbsp;
-											<a href="https://www.instagram.com/ing______natchaya/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="3%"></a><br>
+											<a href="https://www.instagram.com/ing______natchaya/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="3%"></a>
+	    </p>
     <p>
 										นางสาวณัฐชยา ล้อรัตนไชยยงค์
 									</p>
@@ -101,7 +102,8 @@ Arduino Project Distance Senser
     <td align="center"><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="30%"><br><br>
 	    <a href="https://facebook.com/BalloonQuestionMark" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="3%"></a>&nbsp;&nbsp;
 											<a href="https://github.com/61070140" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="3%"></a> &nbsp;&nbsp;
-										<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="3%"></a><br>
+										<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="3%"></a>
+	    </p>
       <p>
       นายพันธวีร์ คงสวัสดิ์
   </p>
