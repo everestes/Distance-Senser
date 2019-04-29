@@ -54,6 +54,14 @@ Arduino Project Distance Senser
 				<td width="70%">
 							<br><img src="https://www.img.in.th/images/4131b06a0bf98e3fef81dcc077550262.png" width="20%" align="right"> 
 				</td></tr>
+	<tr><td width="30%">
+									<p>
+										- LCD with I2C
+									</p>
+				</td>
+				<td width="70%">
+							<br><img src="https://hobbycomponents.com/1487-large_default/i2c-serial-lcd-1602-module.jpg" width="20%" align="right"> 
+				</td></tr>
 			</table>
 			
 # Members
