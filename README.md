@@ -17,8 +17,10 @@ Arduino Project Distance Senser
 พวกเราได้จัดทำโปรเจค Arduino Projects Distance Sensor ขึ้นมา เพื่อวัดระยะทาง โดยข้อจำกัดของอุปกรณ์นี้
 
 จะวัดระยะ ทางได้แค่ ... กิโลเมตร หรือ .. เมตร เมื่อมีสิ่งกีดขวางข้างหน้า เซ็นเซอร์จะวัดได้เพียงถึงจุดสิ่ง ที่กีดขวาง
+
                                                                         
 # Equipment used
+
 <table align="center" width="80%"><tr>
 					<td width="30%">
 									<p>
@@ -55,7 +57,7 @@ Arduino Project Distance Senser
 			</table>
 			
 # Members
-			
+
 <table width="80%" border="0">
   <tr>
     <td align="center"><img src="https://www.img.live/images/2019/04/29/natchaya.jpg" width="35%">
@@ -87,7 +89,10 @@ Arduino Project Distance Senser
 </p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="35%">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="35%"><br>
+	    <a href="https://facebook.com/BalloonQuestionMark" target="_blank"><img src="<img src="https://www.img.in.th/images/c95b995e72120d5d37af4c148d9f4da6.png" width="20%" target="_blank"></a>&nbsp;&nbsp;
+											<a href="https://github.com/61070140" target="_blank"><img src="<img src="https://www.img.in.th/images/fe83f59c14cddb7a625efc9e286e0e3d.png" width="20%" ></a>&nbsp;&nbsp;
+											<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="20%"></a>
       </p>
       <p>นายพันธวีร์ คงสวัสดิ์
   </p>
