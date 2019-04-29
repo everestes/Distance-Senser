@@ -83,7 +83,7 @@
 	           รหัสนักศึกษา 61070105
 	  </p></td>
   </tr>
-  <tr>"
+  <tr>
     <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg" width="20%"><br><br>
 	    <a href="https://facebook.com/mangpor.9ii" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="3%" target="_blank"></a>&nbsp;&nbsp;
 											<a href="https://github.com/everestes" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="3%" ></a>&nbsp;&nbsp;
@@ -108,5 +108,6 @@
       <p>
 	           รหัสนักศึกษา 61070140
 </p></td>
+<p><center>นักศึกษาชั้นปีที่ 1 คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</center></p>
   </tr>
 </table>
