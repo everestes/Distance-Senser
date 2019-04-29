@@ -58,7 +58,7 @@ Arduino Project Distance Senser
 			
 <table width="80%" border="0">
   <tr>
-    <td align="center"><img src="https://www.img.live/images/2019/04/29/natchaya.jpg">
+    <td align="center"><img src="https://www.img.live/images/2019/04/29/natchaya.jpg" width="35%">
     <p>
 										นางสาวณัฐชยา ล้อรัตนไชยยงค์
 									</p>
@@ -76,8 +76,8 @@ Arduino Project Distance Senser
 	           รหัสนักศึกษา 61070105
 	  </p></td>
   </tr>
-  <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg">
+  <tr>"
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg" width="35%">
       </p>
       <p>นางสาวบุญญิสา เลียวสิริไพโรจน์
   </p>
@@ -87,7 +87,7 @@ Arduino Project Distance Senser
 </p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="35%">
       </p>
       <p>นายพันธวีร์ คงสวัสดิ์
   </p>
