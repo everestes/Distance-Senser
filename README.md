@@ -95,7 +95,7 @@ Arduino Project Distance Senser
   </tr>
   <tr>"
     <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg" width="30%"><br><br>
-	    <a href="https://facebook.com/mangpor.9ii" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="3%" target="_blank"></a>&nbsp;&nbsp;
+	    <a href="https://facebook.com/mangpor.9ii" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="1%" target="_blank"></a>&nbsp;&nbsp;
 											<a href="https://github.com/everestes" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="3%" ></a>&nbsp;&nbsp;
 											<a href="https://www.instagram.com/__mangporr/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="3%"></a>
       </p>
