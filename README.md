@@ -66,7 +66,7 @@ Arduino Project Distance Senser
 									</p>
 	</td>
 					<td width="50%">
-									<img src=natchaya.jpg" align="right">
+									<img src=Distance-Senser/natchaya.jpg" align="right">
 					</td>
 				</tr>
 				<tr><td width="30%">
