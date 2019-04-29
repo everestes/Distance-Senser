@@ -58,7 +58,7 @@ Arduino Project Distance Senser
 			
 <table width="80%" border="0">
   <tr>
-    <td align="center"><img src="https://www.img.live/images/2019/04/29/natchaya.jpg" alt="natchaya.jpg" border="0">
+    <td align="center"><img src="https://www.img.live/images/2019/04/29/natchaya.jpg">
     <p>
 										นางสาวณัฐชยา ล้อรัตนไชยยงค์
 									</p>
@@ -67,7 +67,7 @@ Arduino Project Distance Senser
 									</p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/nithan.jpg" alt="nithan.jpg" border="0">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/nithan.jpg">
       </p>
       <p>นายนิธาน ทรัพย์แก้วยอด
   </p>
@@ -77,7 +77,7 @@ Arduino Project Distance Senser
 	  </p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg" alt="boonyisa.jpg" border="0">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg">
       </p>
       <p>นางสาวบุญญิสา เลียวสิริไพโรจน์
   </p>
@@ -87,7 +87,7 @@ Arduino Project Distance Senser
 </p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" alt="phantawee.jpg" border="0">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg">
       </p>
       <p>นายพันธวีร์ คงสวัสดิ์
   </p>
