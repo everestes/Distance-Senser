@@ -73,9 +73,9 @@ Arduino Project Distance Senser
   </tr>
   <tr>
     <td align="center"><p><img src="https://www.img.live/images/2019/04/29/nithan.jpg" width="35%"><br><br>
-	    <a href="https://facebook.com/gamenithan" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="20%" target="_blank"></a>&nbsp;&nbsp;
-											<a href="https://github.com/gamenithan" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="20%" ></a>&nbsp;&nbsp;
-											<a href="https://www.instagram.com/game_nithan/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="20%"></a>
+	    <a href="https://facebook.com/gamenithan" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="5%" target="_blank"></a>&nbsp;&nbsp;
+											<a href="https://github.com/gamenithan" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="5%" ></a>&nbsp;&nbsp;
+											<a href="https://www.instagram.com/game_nithan/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="5%"></a>
       </p>
       <p>นายนิธาน ทรัพย์แก้วยอด
   </p>
@@ -85,7 +85,10 @@ Arduino Project Distance Senser
 	  </p></td>
   </tr>
   <tr>"
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg" width="35%">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/boonyisa.jpg" width="35%"><br><br>
+	    <a href="https://facebook.com/mangpor.9ii" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="5%" target="_blank"></a>&nbsp;&nbsp;
+											<a href="https://github.com/everestes" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="5%" ></a>&nbsp;&nbsp;
+											<a href="https://www.instagram.com/__mangporr/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="5%"></a>
       </p>
       <p>นางสาวบุญญิสา เลียวสิริไพโรจน์
   </p>
