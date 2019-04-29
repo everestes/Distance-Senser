@@ -90,9 +90,9 @@ Arduino Project Distance Senser
   </tr>
   <tr>
     <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="35%"><br>
-	    <a href="https://facebook.com/BalloonQuestionMark" target="_blank"><img src="<img src="https://www.img.in.th/images/c95b995e72120d5d37af4c148d9f4da6.png" width="20%" target="_blank"></a>&nbsp;&nbsp;
-											<a href="https://github.com/61070140" target="_blank"><img src="<img src="https://www.img.in.th/images/fe83f59c14cddb7a625efc9e286e0e3d.png" width="20%" ></a>&nbsp;&nbsp;
-											<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="20%"></a>
+	    <a href="https://facebook.com/BalloonQuestionMark" target="_blank"><img src="<img src="https://www.img.live/images/2019/04/29/fb.png" width="10%" target="_blank"></a>&nbsp;&nbsp;
+											<a href="https://github.com/61070140" target="_blank"><img src="<img src="https://www.img.live/images/2019/04/29/github.png" width="10%" ></a>&nbsp;&nbsp;
+											<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="10%"></a>
       </p>
       <p>นายพันธวีร์ คงสวัสดิ์
   </p>
