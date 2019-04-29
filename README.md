@@ -89,13 +89,13 @@ Arduino Project Distance Senser
 </p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="35%"><br>
-	    <a href="https://facebook.com/BalloonQuestionMark" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="10%" target="_blank"></a>&nbsp;&nbsp;
+    <td align="center"><img src="https://www.img.live/images/2019/04/29/phantawee.jpg" width="35%"><br>
+	    <a href="https://facebook.com/BalloonQuestionMark" target="_blank"><img src="https://www.img.live/images/2019/04/29/fb.png" width="10%"></a>&nbsp;&nbsp;
 											<a href="https://github.com/61070140" target="_blank"><img src="https://www.img.live/images/2019/04/29/github.png" width="10%"></a> &nbsp;&nbsp;
 											
-										<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"><img src="https://www.img.live/images/2019/04/29/ig.png" width="10%"></a>
-      </p>
-      <p>นายพันธวีร์ คงสวัสดิ์
+										<a href="https://www.instagram.com/beaslzlo_____/" target="_blank"> <img src="https://www.img.live/images/2019/04/29/ig.png" width="10%"></a>
+      <p>
+      นายพันธวีร์ คงสวัสดิ์
   </p>
       </p>
       <p>
