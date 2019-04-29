@@ -67,7 +67,7 @@ Arduino Project Distance Senser
 									</p></td>
   </tr>
   <tr>
-    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/nithan.jpg" width="20%">
+    <td align="center"><p><img src="https://www.img.live/images/2019/04/29/nithan.jpg" width="35%">
       </p>
       <p>นายนิธาน ทรัพย์แก้วยอด
   </p>
