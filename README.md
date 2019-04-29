@@ -10,7 +10,8 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;กลุ่มของพวกเราได้จัดทำโปรเจค ultrasonic distance senser เพื่อประกอบการเรียนในวิชา computer programming (06016315) และเพื่อใช้เป็นเครื่องมือวัดระยะทางโดยสังเขปแสดงผลออกมาทางจอ lcd ดิจิตอล เพื่อที่จะได้เห็นระยะทางที่ชัดเจน โดยเซนเซอร์ เซนเซอร์อัลตร้าโซนิค รุ่น HC-SR04 ตัวนี้สามารถนำไปประยุกต์ใช้งานได้หลากลาย ยกตัวอย่างเช่น อุปกณ์วัดระดับน้ำสำหรับอ่างเก็บน้ำหรือฝาย เพื่อแจ้งเตือนการเกิดอุทกภัย หรือ เครื่องมืออื่นๆอีกมากมาย อยู่ที่การนำมาประยุกต์ใช้</p>
 
 # Reference
-<p>https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay</p><br>
+<p>https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay</p>
+<p>https://create.arduino.cc/projecthub/Salmanfarisvp/ultrasonic-range-detector-with-arduino-46c96c</p>
 <p>https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/</p>
                                                                         
 # Equipment used
