@@ -24,7 +24,7 @@ Arduino Project Distance Senser
 <table align="center" width="80%"><tr>
 					<td width="30%">
 									<p>
-										- Arduino Uno board
+										- Arduino Uno R3 board
 									</p></td>
 					<td width="50%">
 									<img src="https://www.img.live/images/2019/04/29/board.jpg" width="20%" align="right">
@@ -52,7 +52,7 @@ Arduino Project Distance Senser
 									</p>
 				</td>
 				<td width="70%">
-							<br><img src="https://www.abelectronics.co.uk/docs/stock/breakout/breadboard/breadboard.jpg" width="20%" align="right"> 
+							<br><img src="https://cdn.solarbotics.com/products/photos/c555f8d67727caf6a0833c8a1817526a/21025-dscn3816.JPG?w=800" width="20%" align="right"> 
 				</td></tr>
 	<tr><td width="30%">
 									<p>
