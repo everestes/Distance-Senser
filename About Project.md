@@ -1,7 +1,4 @@
-#Arduino ultrasonic distance-Senser
-
-Arduino Project Distance Senser
-                                                                        
+# Arduino ultrasonic distance-Senser
 # About Project
 
 <img src="https://surtrtech.files.wordpress.com/2018/01/09782-3.png" width="50%">
