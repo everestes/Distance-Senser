@@ -74,6 +74,14 @@
 				<td width="70%">
 							<br><img src="https://errebishop.com/4558-large_default/led-diode-red-dim-5.jpg" width="20%" align="right"> 
 				</td></tr>
+	<tr><td width="30%">
+									<p>
+										- 10K Ohm resistor
+									</p>
+				</td>
+				<td width="70%">
+							<br><img src="https://cdn.sparkfun.com//assets/parts/1/2/2/1/6/14491-03.jpg" width="20%" align="right"> 
+				</td></tr>
 			</table>
 			
 # Members
