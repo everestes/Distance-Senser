@@ -72,7 +72,7 @@
 									</p>
 				</td>
 				<td width="70%">
-							<br><img src="https://hobbycomponents.com/1487-large_default/i2c-serial-lcd-1602-module.jpg" width="20%" align="right"> 
+							<br><img src="https://errebishop.com/4558-large_default/led-diode-red-dim-5.jpg" width="20%" align="right"> 
 				</td></tr>
 			</table>
 			
