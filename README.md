@@ -66,6 +66,14 @@
 				<td width="70%">
 							<br><img src="https://hobbycomponents.com/1487-large_default/i2c-serial-lcd-1602-module.jpg" width="20%" align="right"> 
 				</td></tr>
+	<tr><td width="30%">
+									<p>
+										- LED Diode
+									</p>
+				</td>
+				<td width="70%">
+							<br><img src="https://hobbycomponents.com/1487-large_default/i2c-serial-lcd-1602-module.jpg" width="20%" align="right"> 
+				</td></tr>
 			</table>
 			
 # Members
