@@ -6,7 +6,7 @@
 # About Project
 <center><img src="poster.jpg" width="50%"></center>
 
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;กลุ่มของพวกเราได้จัดทำโปรเจค ultrasonic distance senser เพื่อประกอบการเรียนในวิชา computer programming (06016315) และเพื่อใช้เป็นเครื่องมือวัดระยะทางโดยสังเขปแสดงผลออกมาทางจอ lcd ดิจิตอล เพื่อที่จะได้เห็นระยะทางที่ชัดเจน โดยเซนเซอร์อัลตร้าโซนิค รุ่น HC-SR04 ตัวนี้สามารถนำไปประยุกต์ใช้งานได้หลากลาย ยกตัวอย่างเช่น อุปกณ์วัดระดับน้ำสำหรับอ่างเก็บน้ำหรือฝาย เพื่อแจ้งเตือนการเกิดอุทกภัย หรือ เครื่องมืออื่นๆอีกมากมาย อยู่ที่การนำมาประยุกต์ใช้</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;กลุ่มของพวกเราได้จัดทำโปรเจค ultrasonic distance senser เพื่อประกอบการเรียนในวิชา computer programming (06016315) และเพื่อใช้เป็นเครื่องมือวัดระยะทางโดยสังเขปแสดงผลออกมาทางจอ lcd ดิจิตอล เพื่อที่จะได้เห็นระยะทางที่ชัดเจน โดยเซนเซอร์อัลตร้าโซนิค รุ่น HC-SR04 ตัวนี้สามารถนำไปประยุกต์ใช้งานได้หลากลาย ยกตัวอย่างเช่น อุปกณ์วัดระดับน้ำสำหรับอ่างเก็บน้ำหรือฝาย เพื่อแจ้งเตือนการเกิดอุทกภัย หรือ เครื่องมืออื่นๆอีกมากมาย อยู่ที่การนำมาประยุกต์ใช้ หวังว่าจะมีผลประโยชต่อผู้ที่สนใจศึกษาต่อไป</p>
   
 # My video
 <p><img src="https://static-s.aa-cdn.net/img/gp/20600000025034/Ned_Tu_ge6GgJZ_lIO_5mieIEmjDpq9kfgD05wapmvzcInvT4qQMxhxq_hEazf8ZsqA=w300" width="2%">&nbsp;&nbsp;https://www.youtube.com/watch?v=WFfY_Hr_GVM&feature=youtu.be</p>
@@ -83,7 +83,12 @@
 							<br><img src="https://cdn.sparkfun.com//assets/parts/1/2/2/1/6/14491-03.jpg" width="20%" align="right"> 
 				</td></tr>
 			</table>
-			
+# Arduino IDE
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Arduino IDE คือ เครื่องมือการเขียนโปรแกรมที่มีใช้งานได้กับ Arduino ได้ทุกรุ่น โดยภายในจะมีเครื่องมือที่จะเป็นสำหรับติดต่อ Arduinoเช่น การค้นห Arduino ที่ติดต่อกับเครื่องคอมพิวเตอร์ การเลือกรุ่น Arduino ที่ต่ออยู่เพื่อนตรวจสอบว่าขนาดของโปรแกรมที่เขียน หรือไรบรารี่ต่างๆซับพอร์ตกับ Arduino รุ่นนั้นๆไหม อีกทั้งยังมีโปรแกรมติดต่อผ่านซีเรียลโดยตรงสำหรับคอมพิวเตอร์โดยตรง<br>
+<img src="http://3.bp.blogspot.com/-E9EerxD_6xo/VzC0xzRVUqI/AAAAAAAALkE/sZZ26_gFShsd0CYHmTPmNPV65Rda_Zw5wCK4B/s1600/arduino_ide_macro_pir.png" width="30%">
+</p>
+# Fritzing
+
 # Members
 
 <table width="80%" border="0">
