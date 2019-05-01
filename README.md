@@ -13,7 +13,7 @@
 
 # source code
 <p><img src="https://www.img.in.th/images/0097b3e8757ae4020d5adb1f648f8f76.png" width="100%"></p>
-<img src="https://raw.githubusercontent.com/sagelga/ComPro_Project/master/img/Settings.png"width="2%">
+
 # Product
 
 
@@ -158,3 +158,7 @@
   </tr>
   
 </table>
+
+#  Assistant Teacher
+<p>ผศ. ดร. กิติ์สุชาต พสุภา</p><br>
+<p>ผศ. ดร. ปานวิทย์ ธุวะนุติ</p>
