@@ -163,8 +163,9 @@
 <table>
 	<tr>
 		<td align="center">
-	<img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t31.0-8/14902950_10153805956002331_6002362915012083123_o.jpg?_nc_cat=111&_nc_eui2=AeFTgMq-0KHluogZ1vkq9AaR0LwwtEOuSr7Rm_puNW_YXRdOyek0xpnXTglnylzGE5kSxIgfH__uhb8Hnvb-YAZpOVNXWSsxp2VzZ8gLOkFuPQ&_nc_ht=scontent.fbkk5-3.fna&oh=db3fd2e3ce1e2010503d6c5acf9dd520&oe=5D70CC8E" width="20%"><p>ผศ. ดร. กิติ์สุชาต พสุภา</p><br></td>
-		<td>
-<img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/45565676_10156055460602532_1669832762984497152_o.jpg?_nc_cat=100&_nc_eui2=AeGwyFFPJvOye1cFuC9cOePPBRRnzW8A-51kUmrTbgCrpfyQy6G10v6Axq9gCFj3e05UBS3XqjavmRrQ0JHWRTRiyJW3cJuj-C62IftRrKPJ5A&_nc_ht=scontent.fbkk5-5.fna&oh=a50364a4c063ca3bbbe67161fc3e020f&oe=5D369876" width="20%"><p>ผศ. ดร. ปานวิทย์ ธุวะนุติ</p></td>
+	<img src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t31.0-8/14902950_10153805956002331_6002362915012083123_o.jpg?_nc_cat=111&_nc_eui2=AeFTgMq-0KHluogZ1vkq9AaR0LwwtEOuSr7Rm_puNW_YXRdOyek0xpnXTglnylzGE5kSxIgfH__uhb8Hnvb-YAZpOVNXWSsxp2VzZ8gLOkFuPQ&_nc_ht=scontent.fbkk5-3.fna&oh=db3fd2e3ce1e2010503d6c5acf9dd520&oe=5D70CC8E" width="40%"><p>ผศ. ดร. กิติ์สุชาต พสุภา</p><br></td></tr>
+		<tr>
+			<td>
+<img src="https://scontent.fbkk5-5.fna.fbcdn.net/v/t1.0-9/45565676_10156055460602532_1669832762984497152_o.jpg?_nc_cat=100&_nc_eui2=AeGwyFFPJvOye1cFuC9cOePPBRRnzW8A-51kUmrTbgCrpfyQy6G10v6Axq9gCFj3e05UBS3XqjavmRrQ0JHWRTRiyJW3cJuj-C62IftRrKPJ5A&_nc_ht=scontent.fbkk5-5.fna&oh=a50364a4c063ca3bbbe67161fc3e020f&oe=5D369876" width="40%"><p>ผศ. ดร. ปานวิทย์ ธุวะนุติ</p></td>
 </tr>
 </table>
