@@ -9,7 +9,7 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;กลุ่มของพวกเราได้จัดทำโปรเจค ultrasonic distance senser เพื่อประกอบการเรียนในวิชา computer programming (06016315) และเพื่อใช้เป็นเครื่องมือวัดระยะทางโดยสังเขปแสดงผลออกมาทางจอ lcd ดิจิตอล เพื่อที่จะได้เห็นระยะทางที่ชัดเจน โดยเซนเซอร์อัลตร้าโซนิค รุ่น HC-SR04 ตัวนี้สามารถนำไปประยุกต์ใช้งานได้หลากลาย ยกตัวอย่างเช่น อุปกณ์วัดระดับน้ำสำหรับอ่างเก็บน้ำหรือฝาย เพื่อแจ้งเตือนการเกิดอุทกภัย หรือ เครื่องมืออื่นๆอีกมากมาย อยู่ที่การนำมาประยุกต์ใช้</p>
   
 # My video
-<p><img src="https://static-s.aa-cdn.net/img/gp/20600000025034/Ned_Tu_ge6GgJZ_lIO_5mieIEmjDpq9kfgD05wapmvzcInvT4qQMxhxq_hEazf8ZsqA=w300" width="3%">https://www.youtube.com/watch?v=WFfY_Hr_GVM&feature=youtu.be</p>
+<p><img src="https://static-s.aa-cdn.net/img/gp/20600000025034/Ned_Tu_ge6GgJZ_lIO_5mieIEmjDpq9kfgD05wapmvzcInvT4qQMxhxq_hEazf8ZsqA=w300" width="1%">&nbsp;&nbsp;https://www.youtube.com/watch?v=WFfY_Hr_GVM&feature=youtu.be</p>
   
 # Product
 <img src="https://surtrtech.files.wordpress.com/2018/01/09782-3.png" width="40%" >
